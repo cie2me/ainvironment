@@ -1,2 +1,3 @@
 # AInvironment
-### A list of scientific articles about **_Machine Learning_** applied to **_Environmental Engineering_** 
+### A list of scientific articles about ***Machine Learning*** applied to ***Environmental Engineering*** I found interesting
+#### [...]
